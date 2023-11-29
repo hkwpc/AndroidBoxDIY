@@ -1,4 +1,5 @@
 ❤️央视频道,#genre#
+CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8
 CCTV-1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
@@ -819,19 +820,7 @@ FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 冰雪王国里的童话,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3b291326cf2648cd8119f5facf9e3b92/1200.m3u8
 冷静与柔情,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/554c1b879dc646d4ab188dfd58a0f02f/1200.m3u8
 凯门鳄的奇妙旅程,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aba970eff8be48beb339a2ad027592cf/1200.m3u8
-动物与计谋,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/403122f54ee5492fa9e5d2b8f0087ad2/1200.m3u8
-
-❤️密码获取,#genre# 
-西夏影视,
-进群免费获取,
-
-❤️本群专用_2415,#genre#
-  MV,
-我只爱你,https://mpimg.cn/view.php/6784aabe00f862d4b461c0e02a6034b2.mp4
-兄弟干一杯,https://vdse.bdstatic.com//3700f6b78ceaf0f4a5313f4d68c95b72.mp4
-
-
-    #*****#
+动物与计谋,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/403122f54ee5492fa9e5d2b8f0087ad2/1200.m3u
 
 央视频道,#genre#
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
